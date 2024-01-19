@@ -38,7 +38,7 @@ Models will be released soon.
 ### Acknowledgements
 Our code is extended from the following works:
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
-- [Gast](http://www.juanrojas.net/gast/)
+- [Gast-Net](http://www.juanrojas.net/gast/)
 
 Thanks to the original authors for their work!
 
