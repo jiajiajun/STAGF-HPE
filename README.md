@@ -45,10 +45,14 @@ Thanks to the original authors for their work!
 If you find our paper and repo useful, please cite our paper. Thanks!
 
 ```
-@article{Zhang2023,
-  title={Hierarchical Spatial-temporal Adaptive Graph Fusion for Monocular 3D Human Pose Estimation},
-  author={Lijun Zhang, Feng Lu, Kangkang Zhou, Xiang-Dong Zhou, and Yu Shi},
-  journal={IEEE Signal Processing Letters},
-  year={2023}
+@ARTICLE{Zhang2024,
+  author={Zhang, Lijun and Lu, Feng and Zhou, Kangkang and Zhou, Xiang-Dong and Shi, Yu},
+  journal={IEEE Signal Processing Letters}, 
+  title={Hierarchical Spatial-Temporal Adaptive Graph Fusion for Monocular 3D Human Pose Estimation}, 
+  year={2024},
+  volume={31},
+  number={},
+  pages={61-65},
+  doi={10.1109/LSP.2023.3339060}}
 }
 ```
